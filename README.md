@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=osmnsvrn35" alt="osmnsvrn35" /></a> </p>
 
-- 🔭 I’m currently working on [Fitcom App](https://rs.school/courses/aws-fundamentals)
+- 🔭 I’m currently working on [Fitcom App](https://github.com/osmnsvrn35/FitcomAPP)
 
 - 🌱 I’m currently learning **AWS cloud**
 
